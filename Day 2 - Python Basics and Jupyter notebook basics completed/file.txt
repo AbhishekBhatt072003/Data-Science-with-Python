@@ -1,0 +1,2 @@
+you wrote into a file and deleted the pervious material
+ this line is added using append mode
